@@ -1,4 +1,4 @@
-name: 'Stage 2 Ingress'
+name: 'Stage 5 Wordpress'
 on: [workflow_dispatch]
 
 jobs:
